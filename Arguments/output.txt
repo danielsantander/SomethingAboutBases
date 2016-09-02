@@ -1,0 +1,47 @@
+1
+base 2 => 1
+base 3 => 1
+base 4 => 1
+base 5 => 1
+base 6 => 1
+base 7 => 1
+base 8 => 1
+base 9 => 1
+base 10 => 1
+base 11 => 1
+base 12 => 1
+base 13 => 1
+base 14 => 1
+base 15 => 1
+base 16 => 1
+
+
+21
+base 3 => 7
+base 4 => 9
+base 5 => 11
+base 6 => 13
+base 7 => 15
+base 8 => 17
+base 9 => 19
+base 10 => 21
+base 11 => 23
+base 12 => 25
+base 13 => 27
+base 14 => 29
+base 15 => 31
+base 16 => 33
+
+
+ab3
+base 12 => 1575
+base 13 => 1836
+base 14 => 2117
+base 15 => 2418
+base 16 => 2739
+
+
+ff
+base 16 => 255
+
+

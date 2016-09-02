@@ -1,0 +1,3 @@
+/Users/danielsantander/Desktop/programming/self/SomethingAboutBases/build/src/CMakeFiles/SomethingAboutBases.dir
+/Users/danielsantander/Desktop/programming/self/SomethingAboutBases/build/CMakeFiles/ALL_BUILD.dir
+/Users/danielsantander/Desktop/programming/self/SomethingAboutBases/build/CMakeFiles/ZERO_CHECK.dir
