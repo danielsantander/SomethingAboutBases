@@ -20,13 +20,12 @@ void LowestBase(Base *userNum){
     for(i = 0; userNum->digit[i] != '\0'; i++){
         if( ((userNum->digit[i] - '0' >= 0) && (userNum->digit[i] - '0' <= 9) ) && (userNum->digit[i] - '0' >= userNum->lowestBase) ){
             userNum->lowestBase = userNum->digit[i] - '0';
+        }else{
+            LetterCase(userNum, i);
         }
-        
-        LetterCase(userNum, i);
     }
     userNum->lowestBase = userNum->lowestBase + 1;
 }
-
 
 int GetBaseTen(Base *userNum, int base){
     int i = 0;
@@ -40,7 +39,6 @@ int GetBaseTen(Base *userNum, int base){
     }
     return baseTenVal;
 }
-
 
 void LetterCase(Base *userNum, int digitIndex){
     switch (userNum->digit[digitIndex]) {
